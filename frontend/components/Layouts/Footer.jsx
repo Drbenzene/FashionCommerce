@@ -14,7 +14,7 @@ const Footer = () => {
                             />
                         </svg> */}
                     </div>
-                    <p className="text-sm leading-none text-gray-800 mt-4">Copyright © 2021 Luxe</p>
+                    <p className="text-sm leading-none text-gray-800 mt-4">Copyright © 2022 Shorpn</p>
                     <p className="text-sm leading-none text-gray-800 mt-4">All rights reserved</p>
                     <div className="flex items-center gap-x-4 mt-12">
                         <div className="opacity-50 w-8 h-8 flex-shrink-0 bg-gray-800 cursor-pointer hover:bg-gray-700 rounded-full flex items-center justify-center">
@@ -62,10 +62,10 @@ const Footer = () => {
                 <div className="sm:ml-0 ml-8">
                     <h2 className="text-base font-semibold leading-4 text-gray-800">Company</h2>
                     <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Blog</p>
-                    <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Pricing</p>
+                    <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Products</p>
                     <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">About Us</p>
                     <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Contact us</p>
-                    <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Testimonials</p>
+                    <p className="hover:text-gray-500 text-base leading-4 mt-6 text-gray-800 cursor-pointer">Affiliates</p>
                 </div>
                 <div>
                     <h2 className="text-base font-semibold leading-4 text-gray-800">Support</h2>
